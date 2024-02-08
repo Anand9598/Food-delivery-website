@@ -17,3 +17,8 @@ React
 Tailwind CSS
 Swiggy Live API
 
+Screenshot--
+
+![image](https://github.com/Anand9598/food-delivery-website/assets/141264098/ad84f102-27da-4115-8bf3-c15cae596490)
+
+
