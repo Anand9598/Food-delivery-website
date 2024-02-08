@@ -17,7 +17,9 @@ What's inside:
 Tech stack Used:
 
 React
+
 Tailwind CSS
+
 Swiggy Live API
 
 Screenshot--
