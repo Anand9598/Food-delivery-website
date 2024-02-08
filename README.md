@@ -6,8 +6,11 @@ Project Name: Food Delivery webste
 What's inside:
 
 1.⚛️ React components: Clean and modular code for a seamless user experience.
+
 2.Tailwind CSS: Tailwind's utility-first approach ensures a beautiful and responsive UI.
+
 3.Swiggy Live API: Access a vast selection of restaurants and real-time data.
+
 4Features: Search restaurants, browse menus, add items to cart, checkout, and more!
 
 
